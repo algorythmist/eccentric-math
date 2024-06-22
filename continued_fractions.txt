@@ -1,0 +1,5 @@
+- Continued Fractions are used in the first chapter of McLeary "A first course in algebraic topology"
+ to prove R <-> R x R
+
+- Continued Fractions are used in Chapter 5 of Nielsen and Chuang "Quantum Computation and Quantum Information"
+to show that there is an efficient algotrithm for phase estimation
